@@ -24,7 +24,7 @@ I’m a postdoc at Hong Kong Baptist University, supervised by <a href='https://
 
 # 📝 Publications 
 
-- [Low-resolution Face Recognition in the Wild with Mixed-domain Distillation]([https://github.com](https://drive.google.com/file/u/0/d/16LFMbd0sBPMv0O42Rm6Eze8z7qkpiBVh/view)), Shengwei Zhao, Xindi Gao, **Shikun Li**,  Shiming Ge. **BIGMM 2019**
+- [Low-resolution Face Recognition in the Wild with Mixed-domain Distillation](https://drive.google.com/file/u/0/d/16LFMbd0sBPMv0O42Rm6Eze8z7qkpiBVh/view), Shengwei Zhao, Xindi Gao, **Shikun Li**,  Shiming Ge. **BIGMM 2019**
 
 # 🎖 Honors and Awards
 - *2025* HKBU Postdoc Promising Researcher Securing Fund 
