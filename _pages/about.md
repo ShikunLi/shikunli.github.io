@@ -53,13 +53,16 @@ Note: * indicates these authors contributed equally to this work.
 - *2019* First Prize of VisDrone-SOT2019 Challenge
 
 # 📖 Educations
-- *2019.09 - 2024.06*, Ph.D. in Cyberspace Security, Institute of Information Engineering, Chinese Academy of Sciences. Advised by <a href='https://imsg.ac.cn/people/geshiming.html'>Prof. Shiming Ge</a> . 
+- *2019.09 - 2024.06*, Ph.D. in Cyberspace Security, Institute of Information Engineering, Chinese Academy of Sciences.
+  - Advised by <a href='https://imsg.ac.cn/people/geshiming.html'>Prof. Shiming Ge</a>. 
 - *2015.09 - 2019.06*, B.Eng. in Communication Engineering, Beijing University of Posts  Telecommunications. 
 
 # 💻 Internships
-- *2024.09 - 2024.11*,  Westlake University, China. Advised by  <a href='https://sites.google.com/site/yefengzheng/'>Prof. Yefeng Zheng</a>.
-- *2023.05 - 2023.06*, Mohamed Bin Zayed University of Artificial Intelligence, United Arab Emirates. Advised by  <a href='https://tongliang-liu.github.io/'>Prof. Tongliang Liu</a>.
+- *2024.09 - 2024.11*,  Westlake University, China.
+  - Advised by  <a href='https://sites.google.com/site/yefengzheng/'>Prof. Yefeng Zheng</a>.
+- *2023.05 - 2023.06*, Mohamed Bin Zayed University of Artificial Intelligence, United Arab Emirates.
+  - Advised by  <a href='https://tongliang-liu.github.io/'>Prof. Tongliang Liu</a>.
 
 # ⏳ Professional Services
-- *Conference Reviewer*: NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, ACM MM, ACL ARR, AAAI, IJCAI, KDD, UAI, SDM, ACCV, IJCNN, etc.
+- *Conference Reviewer*: NeurIPS, ICML, ICLR, AISTATS, CVPR, ICCV, ECCV, ACM MM, ACL ARR, AAAI, IJCAI, KDD, UAI, SDM, ACCV, IJCNN, etc.
 - *Journal Reviewer:* IEEE T-PAMI, IJCV, IEEE T-NNLS, IEEE T-MM, IEEE T-CSVT, JAIR, Neural Networks, ACM Computing Surveys, etc.
