@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shikun Li"
   avatar           : "images/lsk2.jpg"
-  bio              : "Hong Kong Baptist University"
-  location         : "Beijing, China"
+  bio              : "Postdoc, Hong Kong Baptist University"
+  location         : "Hong Kong, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=FPzWYEsAAAAJ"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/ShikunLi" # e.g., "github username"
+  github           : "ShikunLi" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
