@@ -19,7 +19,7 @@ redirect_from:
 
 # About me
 
-I’m a postdoc at Hong Kong Baptist University, supervised by <a href='https://bhanml.github.io/'>Prof.Bo Han</a> and <a href='https://tongliang-liu.github.io/'>Prof. Tongliang Liu</a>. I got my Ph.D. degree advised by <a href='https://imsg.ac.cn/people/geshiming.html'>Prof. Shiming Ge</a>, at Institute of Information Engineering, Chinese Academy of Sciences in 2024. I got my B.S. degree from Beijing University of Posts Telecommunications in 2019. My research interests lie in **trustworthy machine learning** and **data-centric AI**.
+I’m a postdoc at Hong Kong Baptist University, supervised by <a href='https://bhanml.github.io/'>Prof.Bo Han</a>. I got my Ph.D. degree advised by <a href='https://imsg.ac.cn/people/geshiming.html'>Prof. Shiming Ge</a> and <a href='https://tongliang-liu.github.io/'>Prof. Tongliang Liu</a>, at Institute of Information Engineering, Chinese Academy of Sciences in 2024. I got my B.S. degree from Beijing University of Posts Telecommunications in 2019. My research interests lie in **trustworthy machine learning** and **data-centric AI**.
 
 
 # 📝 Publications 
@@ -54,7 +54,7 @@ Note: * indicates these authors contributed equally to this work.
 
 # 📖 Educations
 - *2019.09 - 2024.06*, Ph.D. in Cyberspace Security, Institute of Information Engineering, Chinese Academy of Sciences.
-  - Advised by <a href='https://imsg.ac.cn/people/geshiming.html'>Prof. Shiming Ge</a>. 
+  - Advised by <a href='https://imsg.ac.cn/people/geshiming.html'>Prof. Shiming Ge</a> and <a href='https://tongliang-liu.github.io/'>Prof. Tongliang Liu</a>. 
 - *2015.09 - 2019.06*, B.Eng. in Communication Engineering, Beijing University of Posts  Telecommunications. 
 
 # 💻 Internships
