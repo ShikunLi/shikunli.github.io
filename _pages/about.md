@@ -19,7 +19,7 @@ redirect_from:
 
 # About me
 
-I’m a postdoc at Hong Kong Baptist University, supervised by <a href='https://bhanml.github.io/'>Prof.Bo Han</a>. I got my Ph.D. degree advised by <a href='https://imsg.ac.cn/people/geshiming.html'>Prof. Shiming Ge</a> and <a href='https://tongliang-liu.github.io/'>Prof. Tongliang Liu</a>, at Institute of Information Engineering, Chinese Academy of Sciences in 2024. I got my B.S. degree from Beijing University of Posts Telecommunications in 2019. My research interests lie in **trustworthy machine learning** and **data-centric AI**.
+I’m a postdoc at Hong Kong Baptist University, supervised by <a href='https://bhanml.github.io/'>Prof.Bo Han</a> and <a href='https://tongliang-liu.github.io/'>Prof. Tongliang Liu</a>. I received my Ph.D. from the Institute of Information Engineering, Chinese Academy of Sciences in 2024, where I was advised by <a href='https://imsg.ac.cn/people/geshiming.html'>Prof. Shiming Ge</a> and <a href='https://tongliang-liu.github.io/'>Prof. Tongliang Liu</a>. Before that, I got my B.S. degree from Beijing University of Posts Telecommunications in 2019. My research interests lie in **trustworthy machine learning** and **data-centric AI**.
 
 
 # 📝 Publications 
