@@ -23,17 +23,16 @@ I’m a postdoc at Hong Kong Baptist University, supervised by <a href='https://
 
 
 # 📝 Publications 
-Note: * indicates these authors contributed equally to this work.
 - [Denoising Implicit Feedback for Cold-start Recommendation] Gaode Chen, Shicheng Wang, **Shikun Li**, Rui Huang, Xinghua Zhang, Yunze Luo, Shipeng Li, Shiming Ge, Ruina Sun, Yinjie Jiang, Jun Zhang. **KDD 2026**
-- [LearnAlign: Data Selection for LLM Reinforcement Learning with Improved Gradient Alignment](https://arxiv.org/abs/2506.11480) Shipeng Li*, Zhiqin Yang*, **Shikun Li***, Xiaobo Xia, Hengyu Liu, Xinghua Zhang, Gaode Chen, Dong Fang, Ying Tai, Zhe Peng. **ACL 2026 Findings**
+- [LearnAlign: Data Selection for LLM Reinforcement Learning with Improved Gradient Alignment](https://arxiv.org/abs/2506.11480) Shipeng Li, Zhiqin Yang, **Shikun Li**, Xiaobo Xia, Hengyu Liu, Xinghua Zhang, Gaode Chen, Dong Fang, Ying Tai, Zhe Peng. **ACL 2026 Findings**
 - [Privacy-preserving Model Transcription with Differentially Private Synthetic Distillation](https://arxiv.org/abs/2601.19090) Bochao Liu, Shiming Ge, Pengju Wang, **Shikun Li**, Tongliang Liu. **IEEE T-PAMI 2026**
 - [TopoTTA: Topology-Enhanced Test-Time Adaptation for Tubular Structure Segmentation](https://arxiv.org/pdf/2508.00442). Jiale Zhou, Wenhan Wang, **Shikun Li**, Xiaolei Qu, Xin Guo, Yizhong Liu, Wenzhong Tang, Xun Lin, Yefeng Zheng. **ICCV 2025**
 - [Learning Natural Consistency Representation for Face Forgery Video Detection](https://arxiv.org/abs/2407.10550). Daichi Zhang, Zihao Xiao, **Shikun Li**, Fanzhao Lin, Jianmin Li, Shiming Ge. **ECCV 2024**
 - [Transferring Annotator- and  Instance-dependent Transition Matrix for Learning from Crowds](https://arxiv.org/pdf/2306.03116). **Shikun Li**, Xiaobo Xia, Jiankang Deng, Shiming Ge, Tongliang Liu. **IEEE T-PAMI 2024**
-- [Multimodal Composition Example Mining for Composed Query Image Retrieval](https://ieeexplore.ieee.org/document/10418785). Gangjian Zhang*, **Shikun Li***, Shikui Wei, Shiming Ge, Na Cai, Yao Zhao. **IEEE T-IP 2024**
+- [Multimodal Composition Example Mining for Composed Query Image Retrieval](https://ieeexplore.ieee.org/document/10418785). Gangjian Zhang, **Shikun Li**, Shikui Wei, Shiming Ge, Na Cai, Yao Zhao. **IEEE T-IP 2024**
 - [DANCE: Dual-View Distribution Alignment for Dataset Condensation](https://arxiv.org/abs/2406.01063). Hansong Zhang, **Shikun Li**, Fanzhao Lin, Weiping Wang, Zhenxing Qian, Shiming Ge. **IJCAI 2024**
 - [Coupled Confusion Correction: Learning from Crowds with Sparse Annotations](https://arxiv.org/abs/2312.07331). Hansong Zhang,  **Shikun Li**, Dan Zeng, Chenggang Yan,  Shiming Ge. **AAAI 2024**
-- [M3D: Dataset Condensation by Minimizing Maximum Mean Discrepancy](https://arxiv.org/abs/2312.15927). Hansong Zhang*, **Shikun Li***, Pengju Wang, Dan Zeng,  Shiming Ge. **AAAI 2024**
+- [M3D: Dataset Condensation by Minimizing Maximum Mean Discrepancy](https://arxiv.org/abs/2312.15927). Hansong Zhang, **Shikun Li**, Pengju Wang, Dan Zeng,  Shiming Ge. **AAAI 2024**
 - [Trustable Co-Label Learning from Multiple Noisy Annotators](https://arxiv.org/abs/2203.04199).**Shikun Li**, Tongliang Liu, Dan Zeng,  Shiming Ge. **IEEE T-MM 2023**
 - [Federated Learning with Label-Masking Distillation](https://dl.acm.org/doi/10.1145/3581783.3611984). Jianghu Lu, **Shikun Li**, Kexin Bao, Pengju Wang, Zhenxing Qian,  Shiming Ge. **ACM MM 2023 Oral**
 - [Model Conversion via Differentially Private Data-free Distillation](https://arxiv.org/abs/2304.12528). Bochao Liu, Pengju Wang, **Shikun Li**, Dan Zeng,  Shiming Ge. ***IJCAI 2023**
