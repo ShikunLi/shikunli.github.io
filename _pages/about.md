@@ -23,7 +23,7 @@ I’m a postdoc at Hong Kong Baptist University, supervised by <a href='https://
 
 
 # 📝 Publications 
-- **Denoising Implicit Feedback for Cold-start Recommendation**. Gaode Chen, Shicheng Wang, **Shikun Li**, Rui Huang, Xinghua Zhang, Yunze Luo, Shipeng Li, Shiming Ge, Ruina Sun, Yinjie Jiang, Jun Zhang. **KDD 2026**
+- [Denoising Implicit Feedback for Cold-start Recommendation](https://arxiv.org/abs/2606.19658). Gaode Chen, Shicheng Wang, **Shikun Li**, Rui Huang, Xinghua Zhang, Yunze Luo, Shipeng Li, Shiming Ge, Ruina Sun, Yinjie Jiang, Jun Zhang. **KDD 2026**
 - [LearnAlign: Data Selection for LLM Reinforcement Learning with Improved Gradient Alignment](https://arxiv.org/abs/2506.11480). Shipeng Li, Zhiqin Yang, **Shikun Li**, Xiaobo Xia, Hengyu Liu, Xinghua Zhang, Gaode Chen, Dong Fang, Ying Tai, Zhe Peng. **ACL 2026 Findings**
 - [Privacy-preserving Model Transcription with Differentially Private Synthetic Distillation](https://arxiv.org/abs/2601.19090). Bochao Liu, Shiming Ge, Pengju Wang, **Shikun Li**, Tongliang Liu. **IEEE T-PAMI 2026**
 - [TopoTTA: Topology-Enhanced Test-Time Adaptation for Tubular Structure Segmentation](https://arxiv.org/pdf/2508.00442). Jiale Zhou, Wenhan Wang, **Shikun Li**, Xiaolei Qu, Xin Guo, Yizhong Liu, Wenzhong Tang, Xun Lin, Yefeng Zheng. **ICCV 2025**
